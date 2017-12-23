@@ -10,6 +10,8 @@ def fizzbuzz(x)
   if x % 3 == 0 
     return "Fizz"
   end 
+  
+  fizzbuzz
 
 =begin
 //However long it takes, I can do this. // 
