@@ -11,7 +11,7 @@ def fizzbuzz(x)
     return "Fizz"
   end 
   
-  fizzbuzz
+  fizzbuzz(9)
 
 =begin
 //However long it takes, I can do this. // 
