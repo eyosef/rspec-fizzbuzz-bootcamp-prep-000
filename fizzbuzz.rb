@@ -7,6 +7,6 @@ We expect fizzbuzz(4) to return nil.
 
 
 def fizzbuzz(x)
-  if fizzbuss(3) % 3 == 0 
+  if fizzbuzz(3) % 3 == 0 
     return "Fizz"
   end 
