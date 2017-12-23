@@ -12,7 +12,3 @@ def fizzbuzz(x)
 end 
   
 
-
-=begin
-//However long it takes, I can do this. // 
-=end
