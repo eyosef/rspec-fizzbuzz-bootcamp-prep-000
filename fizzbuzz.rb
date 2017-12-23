@@ -8,6 +8,9 @@ We expect fizzbuzz(4) to return nil.
 
 def fizzbuzz(x)
   if x % 3 == 0 
-  return "Fizz"
-end
+    return "Fizz"
+  else if x % 5 == 0 
+    return "Buzz"
+  else x % 3 == 0 && x % 5 == 0 
+  end
 end
