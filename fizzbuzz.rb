@@ -7,11 +7,11 @@ We expect fizzbuzz(4) to return nil.
 
 
 def fizzbuzz(x)
-  if x % 3 == 0 
-    return "Fizz"
+  # if x % 3 == 0 
+  #   return "Fizz"
   end 
   
-  fizzbuzz(3)
+
 
 =begin
 //However long it takes, I can do this. // 
